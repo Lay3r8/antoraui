@@ -1,5 +1,5 @@
 site:
-  title: Antora Demo Site
+  title: CIRB Demo
   # the 404 page and sitemap files only get generated when the url property is set
   url: https://github.com/Lay3r8/antoraui
   start_page: antoradoc::index.adoc
